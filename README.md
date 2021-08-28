@@ -1,7 +1,7 @@
 - Hi, I’m @moonlightqq1
-- I’m interested in Web development. 
-- I’m Learning it since a half year.
-- I’m looking to collaborate on building Websites. 
+- I’m interested in C#. 
+- I’m Learning it since a year.
+- I’m looking to collaborate on C# Projects
 - How to reach me 
 Email: milleschitz12@gmail.com
 
